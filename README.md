@@ -27,8 +27,6 @@
 <a href="https://www.linkedin.com/in/nic%C3%A9tas-houessou-a394a9139?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nic%C3%A9tas-houessou-a394a9139" height="30" width="40" /></a>
 <a href="https://x.com/Nictas1?t=xSFh2Rbt2K5_OQBfvglVnQ&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Nicétas_HOUESSOU" height="30" width="40" /></a>
 <a href="https://discord.com/invite/tXPrVh7F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nice2219" height="30" width="40" /></a>
-📧 Email: benothouessou74@gmail.com
-</p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Github Stats🚀
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nice22&show_icons=true&theme=radical&locale=en&layout=compact" alt="nice22" />
