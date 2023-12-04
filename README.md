@@ -31,6 +31,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Github Stats🚀
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nice22&show_icons=true&theme=radical&locale=en&layout=compact" alt="nice22" />
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nice22&show_icons=true&theme=radical)
 
 
