@@ -58,4 +58,3 @@
 - ⚡ Fun fact: ...
 -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nice22&color=brightgreen)
