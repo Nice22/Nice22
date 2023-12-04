@@ -44,7 +44,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Github Stats🚀
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nice22&show_icons=true&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nice22&" alt="nice22" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nice22&theme=tokyonight" alt="nice22" /></p>
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nice22&langs_count=5&theme=tokyonight)]()
 
