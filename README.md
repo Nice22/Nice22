@@ -29,19 +29,14 @@
 📧 Email: benothouessou74@gmail.com
 </p>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Github Stats🚀
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nice22&show_icons=true&theme=radical)
 
 
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=Nice22&color=brightgreen)
-
+## Explore my repositories to discover more about my skills and achievements. Open to exciting opportunities in the software development field.
 <!--
-**Nice22/Nice22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
 - ⚡ Fun fact: ...
 -->
 
+![Profile Views](https://komarev.com/ghpvc/?username=Nice22&color=brightgreen)
