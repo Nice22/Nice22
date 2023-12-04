@@ -34,6 +34,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nice22&show_icons=true&theme=radical)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nice22&" alt="nice22" /></p>
+
 
 ## Explore my repositories to discover more about my skills and achievements. Open to exciting opportunities in the software development field.
 <!--
