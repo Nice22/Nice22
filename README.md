@@ -1,6 +1,6 @@
 ### Hi there 👋 and Welcome to Nice22's GitHub Profile
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Full Stack Junior developper
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Full Stack Developper
 
 <br>
  
