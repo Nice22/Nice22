@@ -12,9 +12,9 @@
 
 ## Projects
 - [Tasktrek](tasktrek-766fe.web.app): ALX portfolio project and the technologies used are HTML/CSS, JavaScript and Python.
-<!--
-- [Name](link) Personal portfolio website 🤓
--->
+
+- [Nicétas HOUESSOU](https://nice22.github.io/) Personal portfolio website 🤓
+<!-- -->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
