@@ -51,7 +51,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nice22&theme=tokyonight" alt="nice22" /></p>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nice22&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nice22&langs_count=7&theme=tokyonight)]()
 
 ## 🏆GitHub Trophies
 😇😇![](https://github-profile-trophy.vercel.app/?username=nice22&theme=radical&no-frame=false&no-bg=false&margin-w=4)
