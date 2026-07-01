@@ -4,8 +4,8 @@
 
 <br>
  
- My name is Auré Marie-Nicétas B.J. or Nicétas HOUESSOU to serve you 🧑🏿‍💻  and i"m  actually a student at ALX Africa
-- 🌱 I’m currently learning how to become a good full stack optional backend developper.
+ My name is Auré Marie-Nicétas B.J. or Nicétas HOUESSOU to serve you 🧑🏿‍💻  and I was a student at ALX Africa
+- 🌱 I’m a full stack optional backend developper.
 - 🌎📍Location: Cotonou Bénin
 - 👨🏾‍💻 Tech enthusiast
 - 📫 How to reach me **benothouessou74@gmail.com**
